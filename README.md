@@ -22,3 +22,4 @@ start pos
 
 --press enter key between p1 = game.Players.LocalPlayer.HumanoidRootPart
 and p2 = "DeletethisTextAndTypeThePlayerYouWantToTpTo"
+-middle of p1 and p2
