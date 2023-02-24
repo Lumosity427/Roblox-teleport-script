@@ -19,3 +19,6 @@ start pos
 -- warning this only works in-game. Its not like a stream sniper. Just a TeleportingTool.
 
 -- if it doesnt work let me know and im pretty good at fixing bugs!
+
+--press enter key between p1 = game.Players.LocalPlayer.HumanoidRootPart
+and p2 = "DeletethisTextAndTypeThePlayerYouWantToTpTo"
